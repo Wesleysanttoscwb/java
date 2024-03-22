@@ -1,6 +1,6 @@
 package Aula04;
 import java.util.Scanner;
-//atividade dia 22/03
+//atividade dia 22/03/24
 public class Atividade01 {
 	public static void main (String[] args){
 	Scanner scanner = new Scanner(System.in);
